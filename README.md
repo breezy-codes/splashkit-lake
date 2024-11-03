@@ -2,6 +2,12 @@
     <img width="150px" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit.png"/>
 </p>
 
+![GitHub contributors](https://img.shields.io/github/contributors/thoth-tech/splashkit-lake?label=Contributors&color=F5A623)
+![GitHub issues](https://img.shields.io/github/issues/thoth-tech/splashkit-lake?label=Issues&color=F5A623)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/splashkit-lake?label=Pull%20Requests&color=F5A623)
+![Forks](https://img.shields.io/github/forks/thoth-tech/splashkit-lake?label=Forks&color=F5A623)
+![Stars](https://img.shields.io/github/stars/thoth-tech/splashkit-lake?label=Stars&color=F5A623)
+
 # SplashKit Lake
 
 **SplashKit Lake** is a repository for intermediate-stage games developed with the SplashKit SDK. This repository serves as a collection of games that have moved beyond the experimental phase in **[SplashKit Pond](https://github.com/thoth-tech/splashkit-pond)** and are undergoing further refinement, testing, and improvements. Once these games are fully polished and stable, they can progress to **[SplashKit Beach](https://github.com/thoth-tech/splashkit-beach)** for stable release and public enjoyment.
@@ -16,8 +22,8 @@ Games within SplashKit Lake are organized as individual folders in this reposito
 
 ## Getting Started
 
-To play or test the games in SplashKit Lake, you’ll need to install the SplashKit SDK. Follow the [SplashKit Installation Guide](http://www.splashkit.io/installation/) to set up your environment.
+To play or test the games in SplashKit Lake, you'll need to install the SplashKit SDK. Follow the [SplashKit Installation Guide](http://www.splashkit.io/installation/) to set up your environment.
 
 ## Notes
 
-Please note that while games in SplashKit Lake are more refined than those in SplashKit Pond, they may still undergo updates and adjustments. For information on controls, setup, and specific gameplay details, refer to the README files within each game’s folder.
+Please note that while games in SplashKit Lake are more refined than those in SplashKit Pond, they may still undergo updates and adjustments. For information on controls, setup, and specific gameplay details, refer to the README files within each game's folder.
