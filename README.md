@@ -2,11 +2,11 @@
     <img width="150px" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit.png"/>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/thoth-tech/splashkit-lake?label=Contributors&color=F5A623)
-![GitHub issues](https://img.shields.io/github/issues/thoth-tech/splashkit-lake?label=Issues&color=F5A623)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/splashkit-lake?label=Pull%20Requests&color=F5A623)
-![Forks](https://img.shields.io/github/forks/thoth-tech/splashkit-lake?label=Forks&color=F5A623)
-![Stars](https://img.shields.io/github/stars/thoth-tech/splashkit-lake?label=Stars&color=F5A623)
+[![GitHub contributors](https://img.shields.io/github/contributors/thoth-tech/splashkit-lake?label=Contributors&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/thoth-tech/splashkit-lake?label=Issues&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/splashkit-lake?label=Pull%20Requests&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/pulls)
+[![Forks](https://img.shields.io/github/forks/thoth-tech/splashkit-lake?label=Forks&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/network/members)
+[![Stars](https://img.shields.io/github/stars/thoth-tech/splashkit-lake?label=Stars&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/stargazers)
 
 # SplashKit Lake
 
