@@ -1,3 +1,5 @@
+# SplashKit Lake
+
 <p align="left">
     <img width="150px" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit.png"/>
 </p>
@@ -7,8 +9,6 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/splashkit-lake?label=Pull%20Requests&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/pulls)
 [![Forks](https://img.shields.io/github/forks/thoth-tech/splashkit-lake?label=Forks&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/network/members)
 [![Stars](https://img.shields.io/github/stars/thoth-tech/splashkit-lake?label=Stars&color=F5A623)](https://github.com/thoth-tech/splashkit-lake/stargazers)
-
-# SplashKit Lake
 
 **SplashKit Lake** is a repository for intermediate-stage games developed with the SplashKit SDK. This repository serves as a collection of games that have moved beyond the experimental phase in **[SplashKit Pond](https://github.com/thoth-tech/splashkit-pond)** and are undergoing further refinement, testing, and improvements. Once these games are fully polished and stable, they can progress to **[SplashKit Beach](https://github.com/thoth-tech/splashkit-beach)** for stable release and public enjoyment.
 
